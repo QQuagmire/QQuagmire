@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center"> 
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=bnuuyyu&color=A865C9&plastic&label=⠀QUAG+;⠀"></img></p>
+ <br>
 
-<!--
-**QQuagmire/QQuagmire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <p align="center"><img src="https://github.com/user-attachments/assets/7f779481-b269-46b2-b0f9-bbd9a23edc95"
+   <br>   
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center"> 
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=bnuuyyu&color=A865C9&plastic&label=⠀MIRE+;⠀"></img></p>
+ <br>
+
+
+<p align="center"> 
+  <p align="center">
+<a href="https://en.pronouns.page/@n1linstance"> prns</a> ✦ <a href="https://3utinyduo.carrd.co">crd</a>
+✦ <a  href="https://frozendebt.atabook.org/">ata</a> ✦ <a href="https://colormytree.me/2025/01JE91HB4TXBMA8BK7H3YW46B4">tree</a>
+<br>
